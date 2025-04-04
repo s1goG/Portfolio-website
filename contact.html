@@ -6,7 +6,6 @@
     <title>Contact Me</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap" rel="stylesheet">
-
 </head>
 <body>
 
@@ -16,14 +15,31 @@
             <li><a href="about.html">ABOUT</a></li>
             <li><a href="contact.html">CONTACT</a></li>
         </ul>
-    </nav
+    </nav>
 
     <section class="contact">
         <h2>Contact Information</h2>
         <p>Email: sigogladys@gmail.com</p>
         <p>Phone: +254 783 087673</p>
         <p>Twitter (X): @Gladys Kangie</p>
-        <p>linkedIn: Kangie Gladys</p>
+        <p>LinkedIn: Kangie Gladys</p>
+
+        <hr>
+
+        <!-- Contact Form -->
+        <h3>Send Me a Message</h3>
+        <form>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
     </section>
 
     <footer class="footer">

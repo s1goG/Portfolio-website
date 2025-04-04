@@ -14,7 +14,7 @@ This page gives a dive on my educational background and achievements in my field
 
 3. Contacts page
 The contacts page is accesed similarly via the navigation bar.
-This page gives information on the different ways you can reach me.
+This page gives information on the different ways you can reach me and a quick form where you can leave me a message.
 
 At the bottom of each page, there are social media icons that could easyly lead you to my socials where we can interact.
 
